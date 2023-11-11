@@ -11,13 +11,13 @@ class About extends Component {
                     <img src='./img/me copy.png' alt="" />
                     <div className="text">
                         <h1>About Me</h1>
-                        <p>My name is marwan tarek mohamed i live in cario,Egypt i have 20 years old .</p>
-                        <p>When i was 8 my father taught me how to change background image or color I was amazed that I knew how to control the device using a few steps .</p>
-                        <p>In 10 i discovered  the internet and play some online games and browse some pages like youtube and facebook .</p>
-                        <p>2 years ago when i browse youtube by accident i press f12 button and open Devtool of chrome and i don't understand anything.</p>
-                        <p>After this i learned HTML and build my first webpage and shared with my friends and one of them see I like programming of websites and give me some courses about programming .</p>
-                        <p>And i bulid the second webpage this the link <a href='https://marwan-elmasrry.github.io/myproject/index1.html'>Akatsuki </a>  i bulid this web site with HTML and CSS .</p>
-                        <p>And here we are i learned and have cerificates of web development can help me to creat webpages in internet and host it .</p>
+                        <p><span className='pspan'>"</span>My name is Marwan Tarek Mohamed, and I live in Giza, Egypt. I am 20 years old.</p>
+                        <p>When I was 8 years old, my father taught me how to change the background image or color. I was amazed that I could control the device with just a few steps.</p>
+                        <p>At the age of 10, I discovered the internet and began playing online games, as well as browsing websites like YouTube and Facebook.</p>
+                        <p>Two years ago, while browsing YouTube, I accidentally pressed the F12 button and opened the Chrome DevTools, but I didn't understand anything.</p>
+                        <p>After this, I learned HTML and built my first webpage, which I shared with my friends. One of them noticed that I liked programming websites and gave me some courses on programming.</p>
+                        <p>And I built a second webpage. Here is the link to <a href='https://marwan-elmasrry.github.io/myproject/index1.html'>Akatsuki</a>. I built this website using HTML and CSS.</p>
+                        <p>And here we are; I have learned and obtained certificates in web development, which can help me create webpages on the internet and host them.<span className='pspan'>"</span></p>
                         <h3>skills</h3>
                         <p>1- Software Development Life Cycle (SDLC)</p>
                         <p>2- Software Architecture</p>
