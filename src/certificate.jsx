@@ -96,7 +96,7 @@ class Certifcate extends Component {
                     </div>
                 </div>
                 <div className="link">
-                    <h2>For More Info <a className="in" href="#">LinkedIN</a></h2>
+                    <h2>For More Info <a className="in" href="https://www.linkedin.com/in/marwan-tarek-elmasry-5a46b5275/">LinkedIN</a></h2>
                 </div>
             </div>
             </div>
