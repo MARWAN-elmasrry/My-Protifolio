@@ -13,7 +13,7 @@ class Certifcate extends Component {
                     <div className='card'>
                         <div className='box'>
                             <a href="https://www.coursera.org/account/accomplishments/verify/FEDXW2FMK4GY"> 
-                            <img src='./img/ibm1.png'  alt='hover' />
+                            <img src='./img/ibm1.png'  alt='Introduction to Software Engineering' />
                             </a>
                         </div>
                         <div className='info'>
@@ -24,7 +24,7 @@ class Certifcate extends Component {
                     <div className='card'>
                         <div className='box'>
                             <a href="https://www.coursera.org/account/accomplishments/verify/G42T55M3H99W">
-                            <img src='./img/ibm2.png'  alt='hover' />
+                            <img src='./img/ibm2.png'  alt='Web Development with HTML, CSS, JavaScrip' />
                             </a>
                         </div>
                         <div className='info'>
@@ -37,7 +37,7 @@ class Certifcate extends Component {
                     <div className='card'>
                         <div className='box'>
                             <a href="https://www.coursera.org/account/accomplishments/verify/F9F852EEYSFJ">
-                            <img src='./img/ibm3.png'  alt='hover' />
+                            <img src='./img/ibm3.png'  alt='Git and GitHub' />
                             </a>
                         </div>
                         <div className='info'>
@@ -48,7 +48,7 @@ class Certifcate extends Component {
                     <div className='card'>  
                         <div className='box'>
                             <a href="https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=35649&code=MmhggJBJeV&qrcode=1">
-                            <img src='./img/first certificate.png'  alt='hover' />
+                            <img src='./img/first certificate.png'  alt='Html and Css' />
                             </a>
                         </div>
                         <div className='info'>
@@ -60,7 +60,7 @@ class Certifcate extends Component {
                     <div className='card'>
                         <div className='box'>
                             <a href="https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=162768&code=c0AVqxitaT&qrcode=1">
-                            <img src='./img/socend certificate.png'  alt='hover' />
+                            <img src='./img/socend certificate.png'  alt='JavaScript' />
                             </a>
                         </div>
                         <div className='info'>
@@ -71,7 +71,7 @@ class Certifcate extends Component {
                     <div className='card'>
                         <div className='box'>
                             <a href="https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=206156&code=25vGB7epqc&qrcode=1">
-                            <img src='./img/ES 6.png'  alt='hover' />
+                            <img src='./img/ES 6.png'  alt='Modern JavaScript (ES6)' />
                             </a>
                         </div>
                         <div className='info'>
@@ -82,7 +82,7 @@ class Certifcate extends Component {
                     <div className='card'>
                         <div className='box'>
                             <a href="https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=194868&code=mb5Y8FRIK6&qrcode=1">
-                            <img src='./img/fourth certificate.png'  alt='hover' />
+                            <img src='./img/fourth certificate.png'  alt='React Js' />
                             </a>
                         </div>
                         <div className='info'>
@@ -93,7 +93,7 @@ class Certifcate extends Component {
                     <div className='card'>
                         <div className='box'>
                             <a href="https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=66871&code=Doqa4cTMAB&qrcode=1">
-                            <img src='./img/theerd certificate.png'  alt='hover' />
+                            <img src='./img/theerd certificate.png'  alt='python' />
                             </a>
                         </div>
                         <div className='info'>
@@ -104,7 +104,7 @@ class Certifcate extends Component {
                     <div className='card'>
                         <div className='box'>
                             <a href="https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=282311&code=PgwMu0Tszf&qrcode=1">
-                            <img src='./img/certx.png'  alt='hover' />
+                            <img src='./img/certx.png'  alt='UX Design' />
                             </a>
                         </div>
                         <div className='info'>

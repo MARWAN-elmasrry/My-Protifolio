@@ -1,6 +1,29 @@
  :root{
   --main-color: #ebe84f9d;
 }
+/* SCROLL */
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: #000000;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px transparent; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--main-color); 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #fffb00de;
+}
+/* SCROLL */
  /* Start Global Rules */
 * {
   -webkit-box-sizing: border-box;
