@@ -73,7 +73,8 @@ animation:move-twink-back 200s linear infinite;
 }
 /* ============================================== */
 html {
-  scroll-behavior: smooth;
+ scroll-behavior: smooth;
+
 }
 body {
   margin: 0;
