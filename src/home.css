@@ -302,9 +302,6 @@ width: 300px;
 max-width: 100%;
 transition: .3s;
 }
-.cert .cert-cont .card .box img:hover {
-transform: scale(1.5);
-}
 .cert .cert-cont .card .info {
 padding: 10px;
 }
