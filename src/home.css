@@ -435,7 +435,7 @@ margin-bottom: 0;
   margin-bottom: 30px;
 }
 .cont:hover{
-  .cont-cont .cont-me h1{
+  .cont-cont .cont-me  h1{
     text-shadow: 4px 4px 10px rgba(246, 250, 6, 0.911);
     color:rgba(246, 250, 6, 0.911) ;
     transition: 0.5s;
