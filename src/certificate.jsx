@@ -45,6 +45,17 @@ class Certifcate extends Component {
                             <p>Git is a distributed version control system (VCS) that is commonly used for tracking changes in source code during software development.</p>
                         </div>
                     </div>
+                    <div className='card'>
+                        <div className='box'>
+                            <a href="https://www.coursera.org/account/accomplishments/verify/UQCGYDD6Y3YZ">
+                            <img src='./img/ibm4.png'  alt='Git and GitHub' />
+                            </a>
+                        </div>
+                        <div className='info'>
+                            <h3>React.js</h3>
+                            <p>React.js, commonly referred to as React, is an open-source JavaScript library for building user interfaces (UIs) or user interface components.  </p>
+                        </div>
+                    </div>
                     <div className='card'>  
                         <div className='box'>
                             <a href="https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=35649&code=MmhggJBJeV&qrcode=1">
