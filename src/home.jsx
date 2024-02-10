@@ -10,6 +10,8 @@ import Services from './services';
 import Contact from './contact';
 import Footer from './footer';
 
+import InstallButton from'./InstallButton'
+
 class Home extends Component {
     state = {  } 
     render() { 
@@ -29,7 +31,9 @@ class Home extends Component {
             <div id='serv'></div>
             <Services />
             <div id='cont'></div>
+            <InstallButton />
             <Contact />
+
 
             <Footer />
         </div>;
