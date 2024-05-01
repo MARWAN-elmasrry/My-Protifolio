@@ -124,16 +124,15 @@ class Certifcate extends Component {
                         </div>
                     </div>
                     <div className='card'>
-                    <div className='info'>
-                            <h3>PHP & Mysql</h3>
-                            {/* <p>UX design, short for User Experience design, is the process of designing and enhancing the overall experience that users have when interacting with a product, system, or service. It focuses on meeting the needs and expectations of users by creating intuitive, efficient, and enjoyable experiences.</p> */}
-                        </div>
                         <div className='box'>
                             <a href="https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=36489&code=xPIULpR0Vq&qrcode=1">
                             <img src='./img/php.png'  alt='php' />
                             </a>
                         </div>
-                        
+                        <div className='info'>
+                            <h3>PHP & Mysql</h3>
+                            {/* <p>UX design, short for User Experience design, is the process of designing and enhancing the overall experience that users have when interacting with a product, system, or service. It focuses on meeting the needs and expectations of users by creating intuitive, efficient, and enjoyable experiences.</p> */}
+                        </div>
                     </div>
                 </div>
                 <div className="link">
