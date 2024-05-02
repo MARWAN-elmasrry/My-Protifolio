@@ -470,3 +470,16 @@ margin-bottom: 0;
 }
 
 /* ============================== */
+/* ============================== */
+.foot{
+  color: var(--main-color);
+  height: 40px;
+}
+.foot .container{
+  text-align: center;
+}
+.foot .container p{
+  font-size: 20px;
+}
+/* ============================== */
+/* ============================== */
