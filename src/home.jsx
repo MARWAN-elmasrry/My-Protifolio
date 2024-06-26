@@ -29,9 +29,9 @@ class Home extends Component {
             <About />
             <div id='cert'></div>
             <Certifcate />
-            <div id='serv'></div>
-            <Projects />
             <div id='proj'></div>
+            <Projects />
+            <div id='serv'></div>
             <Services />
             <div id='cont'></div>
             <InstallButton />
