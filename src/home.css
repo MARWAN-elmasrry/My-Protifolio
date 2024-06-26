@@ -74,7 +74,6 @@ animation:move-twink-back 200s linear infinite;
 /* ============================================== */
 html {
  scroll-behavior: smooth;
-
 }
 body {
   margin: 0;
@@ -339,6 +338,24 @@ text-shadow: 4px 4px 10px  rgba(49, 14, 205, 0.85);
 color: rgba(49, 14, 205, 0.85);
 transition: 0.3s;
 }
+/* ================= */
+.proj{
+  margin-top: 20px;
+}
+.proj h1{
+  text-shadow: 4px 4px 10px var(--main-color);
+  color: var(--main-color);
+  font-size: 50px;
+  margin-bottom: 0;
+  margin-right: 780px;
+}
+.proj:hover{
+  .container h1{
+    text-shadow: 4px 4px 10px rgba(246, 250, 6, 0.911);
+    color:rgba(246, 250, 6, 0.911) ;
+    transition: 0.5s;
+  }
+}
 /*===================*/
 .serv {
   padding-top: 30px;
@@ -468,7 +485,6 @@ margin-bottom: 0;
   font-size: 22px;
   transition: 0.3s;
 }
-
 /* ============================== */
 /* ============================== */
 .foot{

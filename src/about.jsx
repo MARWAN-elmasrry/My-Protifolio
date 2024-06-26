@@ -3,7 +3,10 @@ import React, { Component } from 'react';
 import './home.css';
 
 class About extends Component {
-    state = {  } 
+    state = {  
+        year:21
+    }
+    
     render() { 
         return ( <div className="body">
                         <div className="about">
@@ -11,7 +14,7 @@ class About extends Component {
                     <img src='./img/me copy.png' alt="" />
                     <div className="text">
                         <h1>About Me</h1>
-                        <p><span className='pspan'>"</span>My name is Marwan Tarek Mohamed, and I live in Giza, Egypt. I am 20 years old.</p>
+                        <p><span className='pspan'>"</span>My name is Marwan Tarek Mohamed, and I live in Giza, Egypt. I am {this.state.year} years old.</p>
                         <p>When I was 8 years old, my father taught me how to change the background image or color. I was amazed that I could control the device with just a few steps.</p>
                         <p>At the age of 10, I discovered the internet and began playing online games, as well as browsing websites like YouTube and Facebook.</p>
                         <p>Two years ago, while browsing YouTube, I accidentally pressed the F12 button and opened the Chrome DevTools, but I didn't understand anything.</p>
@@ -25,6 +28,7 @@ class About extends Component {
                         <p>4- Software Engineering</p>
                         <p>5- communication skills </p>
                         <p>6- Git and github</p>
+                        <p>7- Data Base</p>
                         <p>and a have some skills from my hobby like playing guitar and piano .</p>
                         <h3>Education</h3>
                         <p>During the education stage, I was looking for the best education and moved from one school to another. </p>

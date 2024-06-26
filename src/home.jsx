@@ -7,6 +7,7 @@ import Image from './image';
 import About from './about';
 import Certifcate from './certificate';
 import Services from './services';
+import Projects from './project';
 import Contact from './contact';
 import Footer from './footer';
 
@@ -29,6 +30,8 @@ class Home extends Component {
             <div id='cert'></div>
             <Certifcate />
             <div id='serv'></div>
+            <Projects />
+            <div id='proj'></div>
             <Services />
             <div id='cont'></div>
             <InstallButton />
