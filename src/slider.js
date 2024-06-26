@@ -15,39 +15,45 @@ export default function SimpleSlider() {
   return (
     <Slider {...settings}>
       <div>
-      <h2>test 1</h2>
+      <h2>Level 1</h2>
+      <h3>project 1</h3>
       <a href="https://react-slick.neostack.com/docs/example/simple-slider">
       <img src="./img/project1.png" />
       </a>
       </div>
       <div>
-      <h2>test 2</h2>
+      <h2>Level 1</h2>
+      <h3>project 2</h3>
       <a href="https://react-slick.neostack.com/docs/example/simple-slider">
-      <img src="./img/project1.png" />
+      <img src="./img/project2.png" />
       </a>
       </div>
       <div>
-      <h2>test 3</h2>
+      <h2>Level 1</h2>
+      <h3>project 3</h3>
       <a href="https://react-slick.neostack.com/docs/example/simple-slider">
-      <img src="./img/project1.png" />
+      <img src="./img/project3.png" />
       </a>
       </div>
       <div>
-      <h2>test 4</h2>
+      <h2>Level 1</h2>
+      <h3>project 4</h3>
       <a href="https://react-slick.neostack.com/docs/example/simple-slider">
-      <img src="./img/project1.png" />
+      <img src="./img/project4.png" />
       </a>
       </div>
       <div>
-      <h2>test 5</h2>
+      <h2>Level 1</h2>
+      <h3>project 5</h3>
       <a href="https://react-slick.neostack.com/docs/example/simple-slider">
-      <img src="./img/project1.png" />
+      <img src="./img/project5.png" />
       </a>
       </div>
       <div>
-      <h2>test 6</h2>
+      <h2>Level 1</h2>
+      <h3>project 6</h3>
       <a href="https://react-slick.neostack.com/docs/example/simple-slider">
-      <img src="./img/project1.png" />
+      <img src="./img/project6.png" />
       </a>
       </div>
     </Slider>
