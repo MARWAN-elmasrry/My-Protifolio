@@ -18,10 +18,10 @@ export default function SimpleSlider2() {
       <h2>Level 1</h2>
       <h3>project 1</h3>
       <a href="https://marwan-elmasrry.github.io/myproject/index1.html">
-      <img src="./img/project1.png" />
+      <img src="./img/project7.png" />
       </a>
       </div>
-      <div>
+      {/* <div>
       <h2>Level 1</h2>
       <h3>project 2</h3>
       <a href="https://marwan-elmasrry.github.io/code-soft/level-1/task-1/inde.html">
@@ -55,7 +55,7 @@ export default function SimpleSlider2() {
       <a href="https://marwan-elmasrry.github.io/code-soft/level-1/task-3/index.html">
       <img src="./img/project6.png" />
       </a>
-      </div>
+      </div> */}
     </Slider>
     
   );
