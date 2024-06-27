@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "./style.css"
 
-export default function SimpleSlider() {
+export default function SimpleSlider1() {
   var settings = {
     dots: true,
     infinite: true,
