@@ -28,15 +28,10 @@ class About extends Component {
                         <p>4- Software Engineering</p>
                         <p>5- communication skills </p>
                         <p>6- Git and github</p>
-                        <p>7- Data Base</p>
+                        <p>7- DataBase</p>
                         <p>and a have some skills from my hobby like playing guitar and piano .</p>
                         <h3>Education</h3>
-                        <p>During the education stage, I was looking for the best education and moved from one school to another. </p>
-                        <p>For example :</p>
-                        <p> in the sixth grade of primary school, I was in the (Amir Al-Shuara’) official language school, </p>
-                        <p>and in the third middle school, I was in the (Salah Salem) official language school,</p>
-                        <p> and in secondary school, I moved to the Not It is taught in English and is (Saidiya Military Secondary School)</p>
-                        <p>and now in I study accounting at the Higher Institute for Marketing, Accounting and Information Systems in the First Settlement in Giza .</p>
+                        <p> I study at the Higher Institute of Marketing and Trade in the First Settlement in Giza, and I study accounting there </p>
                     </div>
                 </div>
             </div>
