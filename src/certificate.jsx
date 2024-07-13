@@ -56,6 +56,16 @@ class Certifcate extends Component {
                             {/* <p>React.js, commonly referred to as React, is an open-source JavaScript library for building user interfaces (UIs) or user interface components.  </p> */}
                         </div>
                     </div>
+                    <div className='card'>
+                        <div className='box'>
+                            <a href="https://www.coursera.org/account/accomplishments/verify/UQCGYDD6Y3YZ">
+                            <img src='./img/php-u.png'  alt='Git and GitHub' />
+                            </a>
+                        </div>
+                        <div className='info'>
+                            <h3>PHP</h3>
+                        </div>
+                    </div>
                     <div className='card'>  
                         <div className='box'>
                             <a href="https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=35649&code=MmhggJBJeV&qrcode=1">
