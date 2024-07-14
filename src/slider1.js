@@ -17,7 +17,7 @@ export default function SimpleSlider1() {
       <div>
       <h2>Level 1</h2>
       <h3>project 1</h3>
-      <a href="https://marwan-elmasrry.github.io/myproject/index1.html">
+      <a href="https://marwan-elmasrry.github.io/My-Project/index1.html">
       <img src="./img/project1.png" />
       </a>
       </div>
