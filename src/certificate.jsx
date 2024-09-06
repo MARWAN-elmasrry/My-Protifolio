@@ -65,6 +65,12 @@ class Certifcate extends Component {
                 ,img:'./img/php.png'
                 ,altI:'php'
                 ,h3:"PHP & Mysql"},
+            {id:13
+                ,link:"https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=253409&code=DfDdtzCQ9B&qrcode=1"
+                ,img:'./img/mongo.png'
+                ,altI:'mongo'
+                ,h3:"Mongo DB"},
+                
         ]
     } 
     render() { 
