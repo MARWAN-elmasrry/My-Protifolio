@@ -70,6 +70,11 @@ class Certifcate extends Component {
                 ,img:'./img/mongo.png'
                 ,altI:'mongo'
                 ,h3:"Mongo DB"},
+            {id:14
+                ,link:"https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=410164&code=KrRFo1FTWh&qrcode=1"
+                ,img:'./img/node.png'
+                ,altI:'node'
+                ,h3:"Node js & Express"},
                 
         ]
     } 
