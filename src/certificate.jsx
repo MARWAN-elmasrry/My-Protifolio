@@ -74,7 +74,7 @@ class Certifcate extends Component {
                 ,link:"https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=410164&code=KrRFo1FTWh&qrcode=1"
                 ,img:'./img/node.png'
                 ,altI:'node'
-                ,h3:"Node js & Express"},
+                ,h3:"Nodejs & Express"},
                 
         ]
     } 
