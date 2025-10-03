@@ -21,6 +21,9 @@ footer .divs .div2 .links a {
   font-size: 1.5rem;
   transition: 0.3s;
 }
+footer .divs .div2 .links .a-shop {
+  color: white;
+}
 footer .divs .div2 .links a:hover {
   color: red;
 }
