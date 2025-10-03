@@ -1,0 +1,29 @@
+.hallo {
+  margin-bottom: 8rem;
+}
+.hallo h1 {
+  font-size: 2.5rem;
+  margin-top: 7rem;
+  margin-bottom: 12rem;
+}
+.hallo .divs .div1 .imgs {
+  display: flex;
+  gap: 3rem;
+  height: 100%;
+  align-items: flex-end;
+}
+.hallo .divs .div1 .imgs img {
+  width: 200px;
+  height: 210px;
+}
+.hallo .divs .div2 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4rem;
+}
+.hallo .divs .div2 p {
+  max-width: 46%;
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 30px;
+}/*# sourceMappingURL=HalloStyle.css.map */

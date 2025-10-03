@@ -1,0 +1,46 @@
+.hero{
+    .divs{
+        height: 95vh;
+        .div1{
+            display: flex;
+            align-items: center;
+            .black-div{
+                display: flex;
+                align-items: center;
+                background-color: black;
+                width: 100%;
+                height: 50%;
+                flex-direction: row-reverse;
+                img{
+                    margin-top: 4rem;
+                    margin-right: 6rem;
+                }
+            }
+        }
+        .div2{
+                display: flex;
+                justify-content: space-between;
+                flex-direction: column;
+                align-items: center;
+            .port-text{
+                margin-top: 5rem;
+                width: max-content;
+                h1{
+                    font-size: 3rem;
+                    font-weight: 700;
+                }
+                .line{
+                    width: 110%;
+                    height: 1px;
+                    background-color: black;
+                }
+            }
+            .hero-text{
+                p{
+                    font-size: 2.5rem;
+                    line-height: 40px;
+                }
+            }
+        }
+    }
+}

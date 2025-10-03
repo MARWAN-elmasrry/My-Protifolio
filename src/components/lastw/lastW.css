@@ -1,0 +1,17 @@
+.last-w {
+  margin-top: 10rem;
+}
+.last-w .divs .div2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.last-w .divs .div2 p {
+  margin-top: 2rem;
+  font-size: 2rem;
+}
+.last-w .divs .div2 .s-p {
+  font-size: 1rem;
+  margin: 0;
+  width: 35%;
+}/*# sourceMappingURL=lastW.css.map */

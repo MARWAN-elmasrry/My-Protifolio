@@ -1,0 +1,43 @@
+.hero .divs {
+  height: 95vh;
+}
+.hero .divs .div1 {
+  display: flex;
+  align-items: center;
+}
+.hero .divs .div1 .black-div {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  width: 100%;
+  height: 50%;
+  flex-direction: row-reverse;
+}
+.hero .divs .div1 .black-div img {
+  margin-top: 4rem;
+  margin-right: 6rem;
+}
+.hero .divs .div2 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+}
+.hero .divs .div2 .port-text {
+  margin-top: 5rem;
+  width: -moz-max-content;
+  width: max-content;
+}
+.hero .divs .div2 .port-text h1 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+.hero .divs .div2 .port-text .line {
+  width: 110%;
+  height: 1px;
+  background-color: black;
+}
+.hero .divs .div2 .hero-text p {
+  font-size: 2.5rem;
+  line-height: 40px;
+}/*# sourceMappingURL=HeroStyle.css.map */

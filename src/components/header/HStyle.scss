@@ -1,0 +1,59 @@
+header{
+  .divs{
+    margin: 0;
+    padding: 0;
+    .div2{
+      .div-header{
+        display: flex;
+        gap: 50%;
+        p{
+          font-weight:600;
+        }
+      }
+    }
+  }
+}
+body .shop-page {
+    background-color: red;
+    color: white;
+}
+
+body .shop-page * {
+    color: white;
+}
+.Flowting-menu {
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 65px;
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+  .head-cont {
+    font-weight: bold;
+    width: 500px;
+    padding: 20px 40px;
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(10px); 
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.4), inset -5px -5px 10px rgba(0, 0, 0, 0.4), -5px 9px 20px 0px rgba(0, 0, 0, 0.4);
+    a {
+      text-decoration: none;
+      font-size: 1.3rem;
+      color: black;
+      img {
+        width: 50px;
+      }
+    }
+    button{
+      border: none;
+      font-size: 1.3rem;
+      background-color: transparent;
+      font-weight: bold;
+    }
+  }
+}
