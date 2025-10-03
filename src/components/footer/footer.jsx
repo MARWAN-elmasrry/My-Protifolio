@@ -27,9 +27,11 @@ export const Footer = () =>{
                 <div className="div2">
                     <p className={isShopPage ? 'opspan2 footer-p' :'opspan footer-p'}>everything will be okay</p>
                     <div className="links">
-                        <a className={isShopPage ? 'a-shop' :''} href='#'>Instagram</a>
-                        <a className={isShopPage ? 'a-shop' :''} href='#'>Telegram</a>
-                        <a className={isShopPage ? 'a-shop' :''} href='#'>WhatsApps</a>
+                        <a className={isShopPage ? 'a-shop' :''} href='https://wa.me/201550793998?text=Hello%20I%20want%20to%20know%20more%20about%20your%20services' target='_blank'>WhatsApps</a>
+                        <a className={isShopPage ? 'a-shop' :''} href='https://t.me/MarwanElmasry' target='_blank'>Telegram</a>
+                        <a className={isShopPage ? 'a-shop' :''} href='https://www.instagram.com/marwantarekelmasry/?hl=en' target='_blank'>Instagram</a>
+                        <a className={isShopPage ? 'a-shop' :''} href='https://www.linkedin.com/in/marwan-tarek-elmasry/' target='_blank'>LinkedIn</a>
+                        <a className={isShopPage ? 'a-shop' :''} href='https://github.com/MARWAN-elmasrry' target='_blank'>GitHub</a>
                     </div>
                 </div>
             </div>
