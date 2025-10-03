@@ -54,4 +54,19 @@ body .shop-page * {
   font-size: 1.3rem;
   background-color: transparent;
   font-weight: bold;
+}
+
+@media (max-width: 810px) {
+  header .divs .div1 {
+    display: none;
+  }
+  header .divs .div2 {
+    width: 100%;
+  }
+}
+@media (max-width: 760px) {
+  .Flowting-menu {
+    bottom: 65px;
+    top: auto;
+  }
 }/*# sourceMappingURL=HStyle.css.map */

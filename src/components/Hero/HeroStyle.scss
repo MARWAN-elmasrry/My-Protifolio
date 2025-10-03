@@ -44,3 +44,21 @@
         }
     }
 }
+
+@media (max-width:1150px) {
+    .hero .divs .div1 .black-div{
+        background-color: transparent;
+    }
+    .hero .divs{
+        flex-direction: column;
+        height: max-content;
+    }
+    .hero .divs .div1{
+        width: 100%;
+        height: 40%;
+        display: none;
+    }
+    .hero .divs .div2{
+        width: 100%;
+    }
+}

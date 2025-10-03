@@ -39,22 +39,20 @@ export const Shop = () =>{
                         <p>1. Basic <hr />(Front-end from Given Design)</p>
                         <p>You provide the design, I implement it in code <hr />(HTML/CSS/JS/React).</p>
                     </div>
-                    <div className="line" style={{        
-                        backgroundColor: isShopPage ? 'white' : '',
-                        }}></div>                    <div className="card">
-                        <p>3. Advanced 
-                            <hr />(Full Stack Lite)</p>
-                        <p>Includes design + front-end + basic backend <hr />(APIs, authentication, database).</p>
-                    </div>
-                </div>
-                <div className="div2">
+                    <div className="line" style={{backgroundColor: 'white'}}></div>                    
                     <div className="card">
                         <p>2. Standard <hr />(Front-end + UI/UX Design)</p>
                         <p>I design the UI/UX and <hr /> hrdevelop the front-end.</p>
                     </div>
-                    <div className="line" style={{        
-                        backgroundColor: isShopPage ? 'white' : '',
-                        }}></div>
+                </div>
+                <div className="line linenone" style={{backgroundColor: 'white'}}></div>                    
+                <div className="div2">
+                    <div className="card">
+                        <p>3. Advanced 
+                            <hr />(Full Stack Lite)</p>
+                        <p>Includes design + front-end + basic backend <hr />(APIs, authentication, database).</p>
+                    </div>
+                    <div className="line" style={{backgroundColor:  'white' }}></div>
                     <div className="card prem">
                         <p>4. Premium  
                             <hr />(Full MERN Stack + Custom Design)</p>

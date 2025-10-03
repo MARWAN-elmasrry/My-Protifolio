@@ -5,6 +5,7 @@ export const Principles = () =>{
         <div className="princ">
             <div className="divs">
                 <div className="div1">
+                <p className='princ-p'><span className="opspan">Three main principles</span></p>
                     <div className="princ-text">
                         <p className='num-p'>➀</p>
                         <p>Endless experiences and <hr />lively curiosity</p>

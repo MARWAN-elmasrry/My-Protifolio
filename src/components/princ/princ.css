@@ -14,6 +14,9 @@
 .princ .divs .div1 {
   margin-top: 6rem;
 }
+.princ .divs .div1 .princ-p {
+  display: none;
+}
 .princ .divs .div2 .princ-flex {
   display: flex;
   gap: 2rem;
@@ -22,4 +25,34 @@
   margin-top: 2rem;
   margin-bottom: 2rem;
   font-size: 1.6rem;
+}
+
+@media (max-width: 1440px) {
+  .princ .divs {
+    flex-direction: column;
+  }
+  .princ .divs .princ-text {
+    width: 100%;
+  }
+  .princ .divs .div1 {
+    width: 100%;
+  }
+  .princ .divs .div1 .princ-p {
+    display: block;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 1.6rem;
+  }
+  .princ .divs .div2 {
+    width: 100%;
+  }
+  .princ .divs .div2 .princ-p {
+    display: none;
+  }
+}
+@media (max-width: 660px) {
+  .princ .divs .div2 .princ-flex {
+    margin-top: 2rem;
+    flex-direction: column;
+  }
 }/*# sourceMappingURL=princ.css.map */

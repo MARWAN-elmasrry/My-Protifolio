@@ -1,6 +1,9 @@
 .last-w {
   margin-top: 10rem;
 }
+.last-w .divs .div1 img {
+  width: 100%;
+}
 .last-w .divs .div2 {
   display: flex;
   flex-direction: column;
@@ -14,4 +17,26 @@
   font-size: 1rem;
   margin: 0;
   width: 35%;
+}
+
+@media (max-width: 1122px) {
+  .last-w .divs {
+    flex-direction: column;
+  }
+  .last-w .divs .div1 {
+    width: 100%;
+  }
+  .last-w .divs .div1 img {
+    height: 500px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    -o-object-position: center;
+       object-position: center;
+  }
+  .last-w .divs .div2 {
+    width: 100%;
+  }
+  .last-w .divs .div2 p {
+    margin-bottom: 30px;
+  }
 }/*# sourceMappingURL=lastW.css.map */

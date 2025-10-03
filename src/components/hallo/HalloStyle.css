@@ -22,8 +22,40 @@
   gap: 4rem;
 }
 .hallo .divs .div2 p {
-  max-width: 46%;
+  max-width: 45%;
   font-size: 28px;
   font-weight: bold;
   line-height: 30px;
+}
+
+@media (max-width: 1430px) {
+  .hallo .divs {
+    flex-direction: column;
+  }
+  .hallo .divs .div1 {
+    width: 100%;
+  }
+  .hallo .divs .div1 .imgs {
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .hallo .divs .div2 {
+    width: 100%;
+  }
+}
+@media (max-width: 685px) {
+  .hallo .divs {
+    flex-direction: column;
+  }
+  .hallo .divs .div1 .imgs {
+    flex-direction: column;
+    align-items: center;
+  }
+  .hallo .divs .div2 {
+    width: 100%;
+    flex-direction: column;
+  }
+  .hallo .divs .div2 p {
+    max-width: 100%;
+  }
 }/*# sourceMappingURL=HalloStyle.css.map */

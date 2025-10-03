@@ -10,6 +10,9 @@
   margin-top: 2rem;
   background-color: black;
 }
+.shop .shop-pack .divs .linenone {
+  display: none;
+}
 .shop .shop-pack .card {
   margin-top: 2rem;
   display: flex;
@@ -18,4 +21,27 @@
 }
 .shop .shop-pack .card p {
   font-size: 1.5rem;
+}
+
+@media (max-width: 850px) {
+  .shop .shop-pack .divs {
+    flex-direction: column;
+  }
+  .shop .shop-pack .divs .linenone {
+    display: block;
+  }
+  .shop .shop-pack .divs .div1 {
+    width: 100%;
+  }
+  .shop .shop-pack .divs .div2 {
+    width: 100%;
+  }
+}
+@media (max-width: 600px) {
+  .shop .divs {
+    flex-direction: column;
+  }
+  .shop .divs .div2 {
+    width: 100%;
+  }
 }/*# sourceMappingURL=shop.css.map */
