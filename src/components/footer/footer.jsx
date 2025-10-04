@@ -1,7 +1,6 @@
 import './footer.css';
 import { useEffect, useState } from 'react'
 
-
 export const Footer = () =>{
      const [currentPath, setCurrentPath] = useState(window.location.pathname);
     

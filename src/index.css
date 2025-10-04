@@ -35,4 +35,14 @@ hr {
 
 .fontw {
   font-weight: 400;
+}
+
+::-moz-selection {
+  background: #000000;
+  color: #ffffff;
+}
+
+::selection {
+  background: #000000;
+  color: #ffffff;
 }/*# sourceMappingURL=index.css.map */

@@ -24,3 +24,7 @@ hr{border: none;}
 .fontw{
     font-weight: 400;
 }
+::selection {
+  background: #000000;
+  color: #ffffff;
+}
